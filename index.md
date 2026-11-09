@@ -1,12 +1,12 @@
-   ---
-   title: Accueil
-   ---
+---
+title: Accueil
+---
 
-   # Bienvenue !
+# Bienvenue !
 
-   Je m'appelle **Malo** et je suis étudiant en **Information Science** à la HEG Genève donc j'essaie de créer un site. 
+Je m'appelle **Malo** et je suis étudiant en **Information Science** à la HEG Genève donc j'essaie de créer un site. 
 
-   ## Sur ce site
+## Sur ce site
 
-   - [À propos de moi](a-propos)
-   - [Mes projets](projets)
+- [À propos de moi](a-propos)
+- [Mes projets](projets)
