@@ -1,0 +1,32 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import "{{ site.theme }}";
+
+body, h1, h2, h3, h4, h5, h6, p, li, a {
+font-family: 'Special Elite', 'Courier New', monospace;
+}
+
+#header_wrap {
+background: #1f3d2b;
+background-image: linear-gradient(to top, #2e5a3f, #1f3d2b);
+}
+
+#footer_wrap {
+background: #1f3d2b;
+}
+
+#main_content_wrap {
+background: #f4f1e8;
+}
+
+#main_content h1,
+#main_content h2,
+#main_content h3 {
+color: #1f3d2b;
+}
+
+#main_content a {
+color: #2e6b47;
+}
